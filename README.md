@@ -4,7 +4,6 @@ At the moment I'm a Security Systems Administrator moving into the development c
 
 ### Current Projects
  - Currently working on my Capstone project using Python, Javascript, Flask, SQLAlchemy, Postgres, and HTML/CSS. Capstone is focused on mental health.
- - The non-alcholoic, which is a recipe book for individuals who would like to drink mocktails.
  - End user security tool, a tool that uses the VirusTotal API for users to check suspicious URL's or emails.
  
  ### Work Experience
