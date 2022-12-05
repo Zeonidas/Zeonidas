@@ -11,7 +11,16 @@ I am recognized as an honest worker, strong work ethic, and putting excellence i
 Recently, I decided to chase down my passion in Software Engineering and enrolled into Springboard to learn the ways of the industry and best practices. At the beginning of the course, I doubted my motives and was not sure I could complete the task that I put before myself. However, once I started, I knew this was me and what I needed to do. I was passionate about my work and the projects I presented.
 
 ## Projects
-
+- [ ] DOM Manipulation (JS)
+- [ ] Meme Generation (JS)
+- [ ] Forex Converter (Python, Flask, Jinja)
+- [ ] Database DJ (Flask)
+- [ ] Twitter Clone (Flask)
+- [ ] Mental Keep (Python, Flask, Jinja)
+- [ ] Broken App (Express)
+- [ ] MadLibs (ReactJS) 
+- [ ] Snack or Booze (ReactJS)
+- [ ] Brick Space (Express, ReactJS 18, React Router 6)
 
 ### Hobbies
 * Sim Racing
