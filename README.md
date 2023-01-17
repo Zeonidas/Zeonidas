@@ -3,24 +3,19 @@
 ## About Me
 I have over 15 years of experience in various fields of Information Technology, starting from the Help Desk, to digital records management, Jr and Sr System Administration for Windows and Linux environment, and Software Engineering. 
 
-Why the move to Software Engineering? Good question.
-I've always been fascinated with using technology to solve problems and help people for the better. It's a tough and scary world out there, so why not make it better. My career in IT has taken me several places all over the world. Along the way I have picked crucial skills that have helped me develop as a person. 
-
-I am recognized as an honest worker, strong work ethic, and putting excellence in all I do. I'm a father to two wonderful children and husband to a wonderful wife. They inspire to continue to grow and push myself beyond normal boundaries and to continue to learn and grow. 
-
 Recently, I decided to chase down my passion in Software Engineering and enrolled into Springboard to learn the ways of the industry and best practices. At the beginning of the course, I doubted my motives and was not sure I could complete the task that I put before myself. However, once I started, I knew this was me and what I needed to do. I was passionate about my work and the projects I presented.
 
 ## Projects
-- [ ] DOM Manipulation (JS)
-- [ ] Meme Generation (JS)
-- [ ] Forex Converter (Python, Flask, Jinja)
-- [ ] Database DJ (Flask)
-- [ ] Twitter Clone (Flask)
-- [ ] Mental Keep (Python, Flask, Jinja)
-- [ ] Broken App (Express)
-- [ ] MadLibs (ReactJS) 
-- [ ] Snack or Booze (ReactJS)
-- [ ] Brick Space (Express, ReactJS 18, React Router 6)
+- [x] DOM Manipulation (JS)
+- [x] Meme Generation (JS)
+- [x] Forex Converter (Python, Flask, Jinja)
+- [x] Database DJ (Flask)
+- [x] Twitter Clone (Flask)
+- [x] Mental Keep (Python, Flask, Jinja)
+- [x] Broken App (Express)
+- [x] MadLibs (ReactJS) 
+- [x] Snack or Booze (ReactJS)
+- [x] Brick Space (Express, ReactJS 18, React Router 6)
 
 ### Hobbies
 * Sim Racing
