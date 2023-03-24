@@ -5,8 +5,6 @@ I have over 15 years of experience in various fields of Information Technology, 
 
 Recently, I decided to chase down my passion in Software Engineering and enrolled into Springboard to learn the ways of the industry and best practices. At the beginning of the course, I doubted my motives and was not sure I could complete the task that I put before myself. However, once I started, I knew this was me and what I needed to do. I was passionate about my work and the projects I presented.
 
-## Projects
-
 ### Hobbies
 * Sim Racing
 * Personal development projects
