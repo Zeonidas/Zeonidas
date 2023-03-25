@@ -31,8 +31,9 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
 [Software Engineer Career Track](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/64548794)
 
 ## Hobbies
-* Sim Racing
 * Personal development projects
+* Sim Racing
+* Flight Sim
 * PC Gaming
 * Woodworking
 * Mountain biking
