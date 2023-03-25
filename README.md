@@ -17,7 +17,6 @@ Recently, I decided to chase down my passion in Software Engineering and enrolle
 - "Whether you think you can or you think you can't, your right." - Henry Ford
 - "I fear not the man who has practiced 10,000 kicks at once, but I fear the man who had practiced one kick 10,000 times." - Bruce Lee
 - "No amount of testing can prove a software right, a single test can prove a software wrong." - Amir Ghahrai
-- "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." - Tom Cargill (90/90 rule)
 
 
 
