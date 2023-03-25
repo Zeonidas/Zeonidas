@@ -33,10 +33,9 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
 ## Hobbies
 * Sim Racing
 * Personal development projects
-* Board games
-* Video games
+* PC Gaming
+* Woodworking
 * Mountain biking
-* Racing
 
 ## Favorite Quotes
 - "Whether you think you can or you think you can't, you're right." - Henry Ford
