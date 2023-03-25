@@ -39,7 +39,7 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
 * Racing
 
 ## Favorite Quotes
-- "Whether you think you can or you think you can't, your right." - Henry Ford
+- "Whether you think you can or you think you can't, you're right." - Henry Ford
 - "I fear not the man who has practiced 10,000 kicks at once, but I fear the man who had practiced one kick 10,000 times." - Bruce Lee
 - "No amount of testing can prove a software right, a single test can prove a software wrong." - Amir Ghahrai
 
