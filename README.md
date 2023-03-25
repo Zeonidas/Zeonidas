@@ -2,10 +2,12 @@
 Hey
 
 ## A Few Projects
-Mental Keep
-Debugging
-Memory Game
-Exercises
+* Mental Keep
+* Debugging
+* Memory Game
+* Exercises
+* Big O Notation
+* Data Structures and Algorithms Exercises
 
 ## Hobbies
 * Sim Racing
