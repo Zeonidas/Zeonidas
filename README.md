@@ -27,6 +27,8 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
   <img width="100" height="100" src="https://zlorn.gallerycdn.vsassets.io/extensions/zlorn/git-helper/1.0.4/1606137405912/Microsoft.VisualStudio.Services.Icons.Default">
 </p>
 
+## Certificates
+[Software Engineer Career Track](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/64548794)
 
 ## Hobbies
 * Sim Racing
