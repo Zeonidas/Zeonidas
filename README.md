@@ -19,6 +19,7 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
   <img width="250" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFZK19JR-nCAWXQ5Pyx7Yi1Lc0Ier1Gac3Q&usqp=CAU">
   <img width="100" height="100" src="https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b">
   <img width="100" height="100" src="https://www.kindpng.com/picc/m/608-6084179_transparent-c-programming-png-c-sharp-logo-png.png">
+  <img width="100" height="100" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png">
 </p>
 
 ## Repo Management and Tools
