@@ -6,7 +6,6 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
 * **Fullstack** - BrickSpace
 * **Fullstack** - [Mental Keep](https://github.com/Zeonidas/Capstone1) 
 * **Fullstack** - Debugging
-* **Frontend Component** - React-Router Sidebar
 * Relocating my projects
 
 ## Languages and Frameworks
