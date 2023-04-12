@@ -2,7 +2,7 @@
 Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm finally pursuing my passion in software development! Currently I'm a security engineer. I'm from Germany, living in Florida, and moving to Wisconsin.
 
 ## What I'm up to
-* **Frontend** - [Chrome Extension Identifier]()
+* **Frontend** - [Chrome Extension Identifier](https://github.com/Zeonidas/chromeExtensionIdentifier)
 * **Fullstack** - BrickSpace
 * **Fullstack** - [Mental Keep](https://github.com/Zeonidas/Capstone1) 
 * **Fullstack** - Debugging
