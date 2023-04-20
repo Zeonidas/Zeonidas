@@ -33,6 +33,7 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
 
 ## Certificates
 [Software Engineer Career Track](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/64548794)
+
 [Web Developer Bootcamp 2023](https://www.udemy.com/certificate/UC-FPBVULG2/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
 
 ## Hobbies
