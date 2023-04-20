@@ -22,6 +22,7 @@ Hey I'm Zach I have over 15 years of experience across the IT landscape and I'm 
   <img width="100" height="100" src="https://www.kindpng.com/picc/m/608-6084179_transparent-c-programming-png-c-sharp-logo-png.png">
   <img width="150" height="100" src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg">
   <img width="150" height="100" src="https://www.commvault.com/wp-content/uploads/2019/08/sql-server_logo.jpg?quality=80&w=930">
+  <img width="150" height="100" src="https://www.pngkit.com/png/detail/383-3838914_mongo-db-design-mongodb-logo-mongodb.png">
 </p>
 
 ## Repo Management and Tools
